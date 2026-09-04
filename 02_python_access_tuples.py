@@ -1,4 +1,4 @@
-# Day X: Accessing Python Tuple Items
+# Day 2: Accessing Python Tuple Items
 # Watch Video Tutorial: [https://www.instagram.com/reel/Dc3WrQaoOwG/?igsi=MWE4OHEwNjR1MzNsZQ==]
 # Author: Waqas Manzoor
 

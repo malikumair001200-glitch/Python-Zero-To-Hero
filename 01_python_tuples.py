@@ -1,6 +1,6 @@
 # ==========================================
-# Day X: Python Tuples Explained Simply
-# Watch Video Tutorial: [Link Video Publish Hone Ke Baad Yahan Lagana]
+# Day 1: Python Tuples Explained Simply
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dc0WZU5NOVn/?igsi=MmM2Mnlob2JoZGRy]
 # Author: Waqas Manzoor Tech
 # ==========================================
 

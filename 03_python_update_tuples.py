@@ -1,5 +1,5 @@
 # Day 3: Updating Python Tuples (Workarounds)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dc5oYLkt89B/?igsi=cjZka2F2aGhkbHB3]
 # Author: Waqas Manzoor
 
 """

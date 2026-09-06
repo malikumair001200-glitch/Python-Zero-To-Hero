@@ -1,5 +1,5 @@
 # Day 4: Unpacking Tuples in Python (and Asterisk *)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dc8UFrBNe_u/?stkn=MXgwaDlpN3Zvem45bw==]
 # Author: Waqas Manzoor
 
 """

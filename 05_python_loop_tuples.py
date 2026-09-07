@@ -1,5 +1,5 @@
 # Day 5: Looping Through Tuples in Python
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dc-tgWKtT1E/?stkn=MWZxa2VlM3I3c3BmZQ==]
 # Author: Waqas Manzoor
 
 """

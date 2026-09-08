@@ -1,5 +1,5 @@
 # Day 06: Introduction to Python Sets & Duplicate Handling
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdBY22kty8U/?stkn=anpmZnFqd3o4dXdy]
 # Author: Waqas Manzoor
 
 """

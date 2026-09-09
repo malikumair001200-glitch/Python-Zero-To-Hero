@@ -1,5 +1,5 @@
 # Day 07: Accessing Items in Python Sets
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdEAUsktM3_/?stkn=MXR4b3JhczB5bXIxZQ==]
 # Author: Waqas Manzoor
 
 """

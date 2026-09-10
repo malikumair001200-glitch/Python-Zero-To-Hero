@@ -1,5 +1,5 @@
 # Day 08: Adding Items to Python Sets (add() vs update())
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdGyRhFtFFp/?stkn=MWZ3aDF6Zm8yYW5obw==]
 # Author: Waqas Manzoor
 
 """

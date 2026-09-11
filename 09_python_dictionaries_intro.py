@@ -1,5 +1,5 @@
 # Day 09: Introduction to Python Dictionaries
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdJU_u_tfaQ/?stkn=MTJxeTFsc25kbXZlbQ==]
 # Author: Waqas Manzoor
 
 """

@@ -1,5 +1,5 @@
 # Day 10: Accessing Python Dictionary Items
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdLnK37t9NV/?stkn=MTBsaHhvcDI3Zjg4bw==]
 # Author: Waqas Manzoor
 
 """

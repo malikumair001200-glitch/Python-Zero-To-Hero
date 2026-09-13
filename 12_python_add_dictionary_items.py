@@ -1,5 +1,5 @@
 # Day 12: Adding Items to Python Dictionaries
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdOZt_CtfTx/?stkn=aWhoMzhnbXBzOGFt]
 # Author: Waqas Manzoor
 
 """

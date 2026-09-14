@@ -1,5 +1,5 @@
 # Day 13: Removing Items from Python Dictionaries
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdQVe3StqW6/?stkn=dGRsazJwZHZ1d2Yw]
 # Author: Waqas Manzoor
 
 """

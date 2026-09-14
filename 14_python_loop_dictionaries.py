@@ -1,5 +1,5 @@
 # Day 14: Looping Through Dictionaries in Python
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdRAbnhN3he/?stkn=MXMybHNoNXVxYXdtZw==]
 # Author: Waqas Manzoor
 
 """

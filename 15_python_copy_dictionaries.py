@@ -1,5 +1,5 @@
 # Day 15: Copying Dictionaries in Python
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdS3SkUti7X/?stkn=MXgzcDFvZmNqczdkbA==]
 # Author: Waqas Manzoor
 
 """

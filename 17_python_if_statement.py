@@ -1,5 +1,5 @@
 # Day 17: Python If Statements & Conditional Logic
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdWJUHptUXb/?stkn=b2h5ZmVzMnMyYzVx]
 # Author: Waqas Manzoor
 
 """

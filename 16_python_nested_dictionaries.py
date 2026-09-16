@@ -1,5 +1,5 @@
 # Day 16: Nested Dictionaries in Python
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdVdV12txFx/?stkn=MWViY3JkM3hhZWRsZA==]
 # Author: Waqas Manzoor
 
 """

@@ -1,5 +1,5 @@
 # Day 18: Python Elif Statements & Multi-Condition Logic
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdYElsTt4Aj/?stkn=MWZlMDlncHEyZW9u]
 # Author: Waqas Manzoor
 
 """

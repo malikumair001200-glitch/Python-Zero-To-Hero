@@ -1,5 +1,5 @@
 # Day 19: Python Else Statement (Default Fallback Condition)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdbEfrZtnFU/?stkn=MWUydmN0aDQ4OG9yMw==]
 # Author: Waqas Manzoor
 
 """

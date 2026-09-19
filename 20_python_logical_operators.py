@@ -1,5 +1,5 @@
 # Day 20: Python Logical Operators (and, or, not)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DddSaBTN9ou/?stkn=ZmY0dDlrNzJ5NTB6]
 # Author: Waqas Manzoor
 
 """

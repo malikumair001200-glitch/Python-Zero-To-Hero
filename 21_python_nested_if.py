@@ -1,5 +1,5 @@
 # Day 21: Python Nested If Statements
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Ddd9UQBtsPb/?stkn=ZzU3ZW55anByYXRo]
 # Author: Waqas Manzoor
 
 """

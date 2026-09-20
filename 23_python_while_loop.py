@@ -1,5 +1,5 @@
 # Day 23: Python While Loop (Conditional Iteration)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdgqXC7tncF/?stkn=MWNzNms0dDI5Nmxteg==]
 # Author: Waqas Manzoor
 
 """

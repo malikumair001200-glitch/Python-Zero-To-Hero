@@ -1,5 +1,5 @@
 # Day 25: Python Function Arguments and Parameters
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdlHw8vNuuN/?stkn=MWZrNmVxdmVjZm40dQ==]
 # Author: Waqas Manzoor
 
 """

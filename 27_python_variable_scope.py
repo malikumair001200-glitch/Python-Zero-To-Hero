@@ -1,5 +1,5 @@
 # Day 27: Python Variable Scope (Local vs Global Scope)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdqUsLFtYam/?stkn=Nzhkank4MGNwbTA3]
 # Author: Waqas Manzoor
 
 """

@@ -1,5 +1,5 @@
 # Day 29: Python Lambda Functions (Anonymous Functions)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DdyHSueNYEB/?stkn=dDk3cjc2ZTIydW04]
 # Author: Waqas Manzoor
 
 """

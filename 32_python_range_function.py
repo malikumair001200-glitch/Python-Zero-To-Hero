@@ -1,5 +1,5 @@
 # Day 32: Python range() Function (Start, Stop, and Step Parameters)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dd5kms6tC4t/?stkn=N2h5dGN5cG5ndGw2]
 # Author: Waqas Manzoor
 
 """

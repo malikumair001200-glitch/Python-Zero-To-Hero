@@ -1,5 +1,5 @@
 # Day 33: Python Arrays (Using Lists to Store Multiple Values)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dd8Ro8atJq1/?stkn=MWEyenBqcXVoeXoxdA==]
 # Author: Waqas Manzoor
 
 """

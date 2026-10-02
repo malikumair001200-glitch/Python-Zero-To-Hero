@@ -1,5 +1,5 @@
 # Day 34: Python Iterators (iter() and next() Functions)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/Dd-68FvNFr4/?stkn=MTNtcDJxcGc0d21idg==]
 # Author: Waqas Manzoor
 
 """

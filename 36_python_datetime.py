@@ -1,5 +1,5 @@
 # Day 36: Python Datetime Module & Date Formatting
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DeBcq9CNE_-/?stkn=YW0xazEwczFhYjZ3]
 # Author: Waqas Manzoor
 
 """

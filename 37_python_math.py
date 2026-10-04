@@ -1,5 +1,5 @@
 # Day 37: Python Math (Built-in Functions and math Module)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DeENfwBN8KM/?stkn=aGphM2FodnZ5em9r]
 # Author: Waqas Manzoor
 
 """

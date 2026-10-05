@@ -1,5 +1,5 @@
 # Day 39: Python Regular Expressions (re Module & Key Functions)
-# Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+# Watch Video Tutorial: [https://www.instagram.com/reel/DeGypPwNbWY/?stkn=MTRldHkwajJpM29zbw==]
 # Author: Waqas Manzoor
 
 """
